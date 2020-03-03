@@ -1,4 +1,4 @@
-## Welcome to aCMS a Modix Academy CMS
+## Welcome to q3CMS a Modix Academy CMS
 
 In our new project we want to create a new website for our new Modix Academy.
 
